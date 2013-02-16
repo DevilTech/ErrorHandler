@@ -11,7 +11,6 @@ public class RobotTemplate extends SimpleRobot
         String err;
         Joystick stick;
         Timer time;
-        double diff;
         
     public void robotInit()
     {
